@@ -1,4 +1,4 @@
-# Lab 3 - AI Chatbot (React + FastAPI + Streamlit)
+# - AI Chatbot (React + FastAPI + Streamlit)
 
 A modern AI chatbot experience powered by Groq + LangChain. The project includes:
 - A React (Vite) frontend with a bold chat UI.
