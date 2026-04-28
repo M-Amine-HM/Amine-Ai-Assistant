@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.log
+*.tmp
+*.egg-info/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.env
+.venv/
+venv/
+
+# Node/Vite
+node_modules/
+dist/
+.vite/
+*.local
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Misc
+*.sqlite
+*.db
